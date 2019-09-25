@@ -3,6 +3,7 @@ html {
   background-color: #f2f2f2;
   font-family: Georgia, serif;
   line-height: 1.5;
+  background-color: black;
 }
 
 *, *::before, *::after {
